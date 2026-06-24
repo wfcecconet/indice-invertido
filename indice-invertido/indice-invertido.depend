@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1782260958 source:c:\users\aluno\documents\cecconet\indice-invertido\indice-invertido.c
+	<stdio.h>
+	"indice-invertido.h"
+
+1782260582 c:\users\aluno\documents\cecconet\indice-invertido\indice-invertido.h
+	<stdio.h>
+
+1782261188 source:c:\users\aluno\documents\cecconet\indice-invertido\main.c
+	"indice-invertido.h"
+

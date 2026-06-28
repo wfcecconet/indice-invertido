@@ -1,0 +1,26 @@
+# Executaveis e objetos compilados
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Pastas de build do Code::Blocks
+bin/
+obj/
+
+# Arquivos de workspace/configuracao do Code::Blocks
+*.depend
+*.layout
+*.cbp.bak
+
+# Arquivos temporarios do Windows
+*.stackdump
+Thumbs.db
+
+# Arquivos de backup de editores
+*~
+*.bak
+*.swp

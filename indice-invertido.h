@@ -1,7 +1,7 @@
 #pragma once
 #include <stdio.h>
 
-#define NOME_ARQUIVO        "BadRomance.txt"
+#define NOME_ARQUIVO        "HinoNacional.txt"
 #define TEXTO_LEN           1000
 #define TAM_PAL             50
 

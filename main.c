@@ -10,8 +10,6 @@ int main(){
     preencherVetor(lista);
     preencherStruct(tokens);
 
-    int indice;
-    char busca[TAM_PAL];
     int opcao;
 
     do{
